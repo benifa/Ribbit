@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/fabrice.benimana/AndroidStudioProjects/Ribbit/app/build/intermediates/pre-dexed/debug/picasso-2.3.3-54014e3dba4dd17c9ca6c78c73e256a57633edf9.jar"
+        jar="/Users/fabrice.benimana/AndroidStudioProjects/Ribbit/app/libs/picasso-2.3.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1262995965440e28ba5c4d480c9c9ab4ccce84cc"/>
+    <item
+        dex="/Users/fabrice.benimana/AndroidStudioProjects/Ribbit/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-bca9cd8c8082330ef7549e0398af852faae531fd.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/fabrice.benimana/AndroidStudioProjects/Ribbit/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-b9cc5cccda430f32001262dcc8bc19510cf1f713.jar"
+        jar="/Users/fabrice.benimana/AndroidStudioProjects/Ribbit/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/fabrice.benimana/AndroidStudioProjects/Ribbit/app/build/intermediates/pre-dexed/debug/Parse-1.5.1-92fb7a86ff65689cfb09fdc6f827f9f23e445493.jar"
+        jar="/Users/fabrice.benimana/AndroidStudioProjects/Ribbit/app/libs/Parse-1.5.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3d645417e7780d44f32e29a3ec6b729b75aef26c"/>
+    <item
+        dex="/Users/fabrice.benimana/AndroidStudioProjects/Ribbit/app/build/intermediates/pre-dexed/debug/classes-58c5166a63f5147fd9501010bb6c32e491cacf63.jar"
+        jar="/Users/fabrice.benimana/AndroidStudioProjects/Ribbit/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Users/fabrice.benimana/AndroidStudioProjects/Ribbit/app/build/intermediates/pre-dexed/debug/commons-io-2.4-07ea95e74cd0bdb5cc497d349dc5998810aa7e32.jar"
+        jar="/Users/fabrice.benimana/AndroidStudioProjects/Ribbit/app/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad"/>
+    <item
+        dex="/Users/fabrice.benimana/AndroidStudioProjects/Ribbit/app/build/intermediates/pre-dexed/debug/classes-8399a0776ada81044ea68f1d9823d8f4e92c225e.jar"
+        jar="/Users/fabrice.benimana/AndroidStudioProjects/Ribbit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+
+</pre-dex-items>

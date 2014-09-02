@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ribbit</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Inbox</string>
+    <string name="title_section2">Friends</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="user_name">Username</string>
+    <string name="password">password</string>
+    <string name="loggin_button">Loging</string>
+    <string name="friend_querry_error_title">Error!</string>
+    <string name="friend_querry_error_message">We cannot retrieve friends</string>
+    <string name="action_logout">Logout</string>
+    <string name="add_friend_menu">Add Friend</string>
+    <string name="edit_friend_menu">Edit Friend</string>
+    <string name="camera_menu">Camera</string>
+    <string name="empty_inbox">No new Messages</string>
+    <string name="no_friends">Please add friends first!</string>
+    <string name="signup_text_label">Sing up</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="emailID_signup_field">email ID</string>
+    <string name="signup_button_label">Sing Up</string>
+    <string name="signup_error_title">Oops, Error Occurred!</string>
+    <string name="sign_up_error_message">Please check your entries</string>
+    <string name="login_error_title">Oops, Error Occurred!</string>
+    <string name="login_error_message">Incorrect username or password</string>
+    <string name="title_activity_edit_friends">Edit Friends</string>
+    <string name="error_external_storage">We are having troubles accessing your External Storage</string>
+    <string name="video_size_warning">The video maximum size is 10MB</string>
+    <string name="error_out_limit_video">the chosen file is bigger than 10MB</string>
+
+    <array name="camera_choices">
+        <item>Take Picture</item>
+        <item>Take Video</item>
+        <item>Choose Picture</item>
+        <item>Choose Video</item>
+    </array>
+
+    <string name="title_activity_recipients">Choose recipients</string>
+    <string name="no_recipients">No recipients yet</string>
+    <string name="menu_item_send">Send</string>
+    <string name="error_sending_dialog_title">Error !</string>
+    <string name="error_sending_dialog_message">there was error sending the message</string>
+    <string name="message_sent_notification">Message sent</string>
+    <string name="sender_id">senderId</string>
+    <string name="title_activity_view_image">Ribbit</string>
+
+</resources>
